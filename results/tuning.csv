@@ -1,0 +1,4 @@
+model,default_cv_mae,tuned_cv_mae,tuned_cv_mae_std,improvement_pct,best_params,search_seconds
+Random Forest,219.4235,218.322,6.7413,0.502,"{'n_estimators': 400, 'min_samples_leaf': 1, 'max_features': 1.0, 'max_depth': 30}",247.464
+SVR,225.7544,220.5576,5.9896,2.3019,"{'C': 3, 'epsilon': 0.05, 'gamma': 0.03}",1268.5596
+Gradient Boosting,237.5761,215.8697,5.6466,9.1366,"{'min_samples_leaf': 5, 'max_leaf_nodes': 127, 'max_iter': 2000, 'learning_rate': 0.05, 'l2_regularization': 1}",423.5501

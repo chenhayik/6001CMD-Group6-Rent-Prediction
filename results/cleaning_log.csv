@@ -1,0 +1,5 @@
+step,rows,removed
+raw,19991,0
+after_range_filter,19799,192
+after_missing_rooms,19795,4
+after_duplicates,17615,2180

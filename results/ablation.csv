@@ -1,0 +1,7 @@
+config,Random Forest,SVR,Gradient Boosting
+Full pipeline,219.42,225.75,237.58
+No log target,217.88,431.2,243.34
+No scaling,219.46,466.16,237.58
+No facility flags,217.97,229.23,240.43
+No area feature,257.98,284.06,278.66
+Dummy (median),534.89,534.89,534.89

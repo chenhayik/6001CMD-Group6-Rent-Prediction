@@ -1,0 +1,4 @@
+pair,cv_mae,cv_mae_std
+Gradient Boosting + Random Forest,211.36,6.03
+Gradient Boosting + SVR,211.05,6.02
+Random Forest + SVR,209.24,6.24

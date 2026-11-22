@@ -1,0 +1,7 @@
+config,Random Forest,SVR,Gradient Boosting
+No missing indicator,220.37,228.96,238.37
+No rare-area grouping,219.51,225.13,237.98
+Complete cases only,236.53,243.32,242.11
+Yeo-Johnson target (not log),220.56,229.79,238.24
+Box-Cox target (not log),220.6,229.78,238.44
+Duplicates kept,196.4,213.42,228.74
