@@ -12,10 +12,9 @@ the two with the lowest CV error (Gradient Boosting + Random Forest) are combine
 - `rent_analysis.ipynb` the full analysis (EDA, preparation, models, tuning, ensemble, evaluation)
 - `rent_analysis.py` the same analysis as a plain Python script
 - `figures/` all plots (PNG), `results/` all tables (CSV)
-- `report/` the group report:
-  - `6001CMD_Group_Report_v4_final_format.docx` current version (Arial 12, 1.5 spacing, Word heading numbering)
-  - `6001CMD_Group_Report_Draft_v4_tracked.docx` the same content with every change since v2 as tracked changes
-  - `6001CMD_Group_Report_v4_point_form.docx` point-form study copy (not for submission)
+- `report/submission_forms` the group report:
+  - `6001CMD_GroupProject_Group6.docx` current version (Arial 12, 1.5 spacing, Word heading numbering)
+
   - `notes/` change log (`CHANGES_v3.md`) and round-2 notes (`NOTES_round2.md`)
   - `archive/` older drafts (v1, v2, v3)
 - `archive/` older notebooks (not part of the submission)
@@ -45,5 +44,6 @@ Python 3.12.4 was used. A full run took about 50 minutes on 6 CPU threads before
 The random seeds are fixed, so every run gives the same numbers and figures. Only the timing columns change.
 
 ## Data
-Kaggle "Rent Pricing Kuala Lumpur Malaysia" by ariewijaya, scraped from mudah.my
+Kaggle "Rental Pricing Dataset, Malaysia" by ariewijaya, scraped from mudah.my
 (19,991 listings, 14 columns).
+https://www.kaggle.com/datasets/ariewijaya/rent-pricing-kuala-lumpur-malaysi
